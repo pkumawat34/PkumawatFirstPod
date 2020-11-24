@@ -1,0 +1,16 @@
+PODS:
+  - PkumawatFirstPod (0.1.0)
+
+DEPENDENCIES:
+  - PkumawatFirstPod (from `../`)
+
+EXTERNAL SOURCES:
+  PkumawatFirstPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PkumawatFirstPod: ae303f2c04d5c5382c9bce55fde363cf3407edc3
+
+PODFILE CHECKSUM: e7e00d1bd2b8d66660eeb70c17956ea6eafea6f9
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module PkumawatFirstPod {
+  umbrella header "PkumawatFirstPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
