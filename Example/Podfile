@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PkumawatFirstPod_Example' do
+  pod 'PkumawatFirstPod', :path => '../'
+
+  target 'PkumawatFirstPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
